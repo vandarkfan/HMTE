@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 10 16:06:28 2023
-
-@author: Zhao Li
-# @File: The HJE Model
-"""
-
 import torch
 import torch.nn as nn
 import numpy as np
